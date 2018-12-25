@@ -1,0 +1,2 @@
+# wx-little-program
+splash
